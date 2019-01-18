@@ -1,0 +1,1 @@
+// AgcCornHarvestLoss: CommonJS Main
